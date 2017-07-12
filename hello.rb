@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-"Hello World!"
+  "Hello World!"
 end
 
 git '/bye' do
